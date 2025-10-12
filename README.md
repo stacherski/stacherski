@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stacherski
-- 👀 I’m interested in full-stack web development, UX, UI
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Vanilla JS web components, UX, UI
 - 📫 you can reach me via email (big G)
 
 <!---
