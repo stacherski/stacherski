@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stacherski
-- 👀 I’m interested in Vanilla JS web components, Design systems, UX, UI
+- 👀 I’m interested in Vanilla JS web components, Design Systems, UX, UI, API, Static Sites, React, SwiftUI
 - 📫 you can reach me via email (big G)
 
 <!---
